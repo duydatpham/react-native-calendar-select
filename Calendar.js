@@ -61,6 +61,18 @@ export default class Calendar extends Component {
       },
       'date': 'DD / MM'
     },
+    'vi': {
+      'w': ['', 'Mon', 'Tues', 'Wed', 'Thur', 'Fri', 'Sat', 'Sun'],
+      'weekday': ['', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+      'text': {
+        'start': 'Start',
+        'end': 'End',
+        'date': 'Date',
+        'save': 'Save',
+        'clear': 'Reset'
+      },
+      'date': 'DD / MM'
+    },
     'jp': {
       'w': ['', '月', '火', '水', '木', '金', '土', '日'],
       'weekday': ['', '月曜日', '火曜日', '水曜日', '木曜日', '金曜日', '土曜日', '日曜日'],
